@@ -12,6 +12,8 @@ Completed user stories:
  
 Walkthrough of all user stories:
 
+![Walkthrough](https://github.com/rainbow1129/tips-calculator/blob/master/tips_calculator.gif)
+
 
 
 
